@@ -3,9 +3,6 @@
 
 This is a responsive personal portfolio website built using **HTML**, **CSS**, and a little **JavaScript**. It showcases my biography, skills, services, projects, and contact information in a clean and professional layout.
 
-##  Live Preview
-[Click here to view the live site](#) *(Add your hosted URL if applicable)*
-
 ##  Features
 
 - Fully responsive design
