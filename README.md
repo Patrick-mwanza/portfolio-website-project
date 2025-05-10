@@ -19,5 +19,6 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 - CSS3 (External Stylesheet)
 - JavaScript (for interactivity)
 - Git for version control
-
+## to view the web online
+click https://patrick-mwanza.github.io/portfolio-website-project/
 
